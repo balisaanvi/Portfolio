@@ -1,0 +1,9 @@
+body{background-color: lightgreen;}
+nav{background-color: green ; height: fit-content;width: 95%;float: left;}
+a{text-decoration: none;}
+.tabs{height: 100%;width: 25%;float: left;display: flex;}
+.img7{height: 50px;align-content: center;float: left;}
+.abudabi{height: 30%;width: 20%;float: left;margin: 15px;background-color: darkseagreen;}
+.leviosa{float: right;height: 15px;}
+.img2{float: right;}
+.img5{text-align: center;}
